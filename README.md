@@ -44,10 +44,12 @@ Use the information you have to create a table schema for each of the six CSV fi
 For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
 Be sure to create tables in the correct order to handle foreign keys.
 
+![image](https://user-images.githubusercontent.com/78287535/127754884-29835e8c-95a6-4f9e-a979-99add3fbd815.png)
 
 
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
+![image](https://user-images.githubusercontent.com/78287535/127754778-d2ae9c23-0c84-4b4e-b921-8083d63a24f2.png)
 
 
 Data Analysis
@@ -76,6 +78,7 @@ List all employees in the Sales and Development departments, including their emp
 
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+![image](https://user-images.githubusercontent.com/78287535/127754840-ec038eac-e45b-413a-9b25-69c388576951.png)
 
 
 
