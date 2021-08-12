@@ -1,5 +1,5 @@
 
-# Project on employee Analysis #
+# SQL_Employee_Analysis #
 
 
 This task is to research project on employees of an organization from the 1980s and 1990s. All that remain in the database of employees from that period are six CSV files.
